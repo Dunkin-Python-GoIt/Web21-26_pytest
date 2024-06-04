@@ -1,2 +1,2 @@
 venv/
-__*cache__/
+*cache*/
